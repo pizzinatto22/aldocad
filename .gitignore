@@ -1,0 +1,4 @@
+build/*/*
+.clang_complete
+*.swp
+.DS_Store
